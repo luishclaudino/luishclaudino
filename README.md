@@ -4,9 +4,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lhcs10@gmail.com)](mailto:lhcs10@gmail.com)
 ### Hi there 👋
 - Python Developer
-- Learning Web Development (HTML, CSS, JS)
 - 👨‍💻 Computer Engineer at UFMS
-- 🎓 Master's student in Computer Science at ICMC - USP
+- 🎓 Master degree in Computer Science at ICMC - USP
 - Passionate about learning something new.
 - Football ⚽, Motorsport 🏎️ and Games 🎮.
 
